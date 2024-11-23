@@ -12,6 +12,6 @@ I first started by having Alexa dim the lights, "Alexa dim the lights by 50%.", 
 ![download](https://github.com/user-attachments/assets/c00f24e3-25ce-4d17-9884-1c33acf10a2c)
 
 
-##Assessing the User Experience
+## Assessing the User Experience
 
-Alexa was **effective** (the accuracy and completeness of achieving user goals) in handling simple commands such as dimming the lights or setting alarms. However, it has difficulty understanding music requests. Alexas did great in giving **feedback** (the ability to communicate the result of an action to the user) for successful tasks like dimming the lights or setting alarms. however when it came to requests it couldn't complete the **feedback** and lacked information on ways to reiterate my command for them to better understand. ho
+Alexa was ** effective ** (the accuracy and completeness of achieving user goals) in handling simple commands such as dimming the lights or setting alarms. However, it has difficulty understanding music requests. Alexas did great in giving ** feedback ** (the ability to communicate the result of an action to the user) for successful tasks like dimming the lights or setting alarms. however when it came to requests it couldn't complete the **feedback** and lacked information on ways to reiterate my command for them to better understand. ho
